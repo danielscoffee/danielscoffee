@@ -1,18 +1,27 @@
-# 👋 Hello! I'm Daniel Reis. At the moment I'm Freelancer Developer 
+<div align="center" style="background-color: #007396; padding: 20px; border-radius: 5px;">
+  <img src="https://i.stack.imgur.com/8NkOQ.gif" style="max-width: 100%;">
+</div>
 
+<div align="center" style="background-color: #007396; padding: 10px; border-radius: 5px; margin-top: 20px;">
+  <h1 style="color: white;">👋 Hello! I'm Daniel Reis.</h1>
+  <p style="color: white; font-style: italic;">Freelancer Developer</p>
+</div>
 
-## 📊 My Stats
+<div align="center" style="background-color: #007396; padding: 10px; border-radius: 5px; margin-top: 20px;">
+  <h3 style="color: white;">📊 My Stats</h3>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=DevDaaniel&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevDaaniel&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaaniel&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaaniel&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" style="border: 1px solid #007396; border-radius: 5px; margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDaaniel&theme=slateorange&hide_border=false" style="border: 1px solid #007396; border-radius: 5px; margin-top: 10px;">
+</div>
 
+<div align="center">
+  <h2 style="background-color: #007396; color: white; padding: 10px; border-radius: 5px; margin-top: 20px;">💻 Favorite Languages</h2>
+</div>
 
-
-## 💻 Favorites Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="margin: 10px;">
+</div>
