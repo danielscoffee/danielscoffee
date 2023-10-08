@@ -1,7 +1,3 @@
-<div align="center" style="background-color: #007396; padding: 20px; border-radius: 5px;">
-  <img src="https://i.stack.imgur.com/8NkOQ.gif" style="max-width: 100%;">
-</div>
-
 <div align="center" style="background-color: #007396; padding: 10px; border-radius: 5px; margin-top: 20px;">
   <h1 style="color: white;">👋 Hello! I'm Daniel Reis.</h1>
   <p style="color: white; font-style: italic;">Freelancer Developer</p>
