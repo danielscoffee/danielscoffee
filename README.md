@@ -23,7 +23,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevDaaniel&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" style="border: 1px solid #007396; border-radius: 5px; margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDaaniel&theme=slateorange&hide_border=false" style="border: 1px solid #007396; border-radius: 5px; margin-top: 10px;">
 </div>
 
 <div align="center">
