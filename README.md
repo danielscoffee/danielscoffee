@@ -19,5 +19,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 10px;">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaaniel&layout=compact)](https://github.com/DevDaaniel)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaaniel&theme=slateorange&layout=compact)](https://github.com/DevDaaniel)
 </div>
