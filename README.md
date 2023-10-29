@@ -9,7 +9,6 @@
   #
   <h3>👋 Hi there! I'm Daniel Reis</h3>
   <p>🇧🇷 Brazilian!</p>
-  <p>👨🏾‍🦱 I'm 16 years old.</p>
   <p>💻 I'm Backend Developer</p>
   <p>🪪 My experience with work(2 years like a Freelancer Developer)</p>
   <p>🤳🏾 I have experience with mobile(1 year) and fullstack web developing(1 year), currently I learning Backend developing</p>
