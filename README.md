@@ -14,5 +14,5 @@
   <p>🤳🏾 I have experience with mobile(1 year) and fullstack web developing(1 year), currently I learning Backend developing</p>
   <p>👤 Currently I'm in vacation and focusing in the pessoal projects!</p>
   
-  [Portfólio]([https://portfoliodanielr.vercel](https://portfoliodanielr.vercel.app/)https://portfoliodanielr.vercel.app/)
+  [Portfólio](https://portfoliodanielr.vercel.app/)
 </div>
