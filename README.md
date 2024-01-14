@@ -2,7 +2,6 @@
   <img src="Digital_rain_banner.gif">
 </div>
 
-
 <div>
   <img align="left" height="390px" src="octocat-1697507949826.png">
 
