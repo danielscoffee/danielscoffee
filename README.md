@@ -11,5 +11,5 @@
   <p>💻 I'm Backend Developer</p>
   <p>👤 Currently focusing in the pessoal projects!</p>
   
-  [Portfólio](https://portfoliodanielr.vercel.app/)
+  [Portfolio](https://portfoliodanielr.vercel.app/)
 </div>
