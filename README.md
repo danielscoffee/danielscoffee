@@ -8,7 +8,7 @@
   #
   <h3>👋 Hi there! I'm Daniel Reis</h3>
   <p>🇧🇷 Brazilian!</p>
-  <p>💻 I'm Backend Developer</p>
+  <p>💻 I'm Web Developer</p>
   <p>👤 Currently focusing in the pessoal projects!</p>
   
   [Portfolio](https://portfoliodanielr.vercel.app/)
