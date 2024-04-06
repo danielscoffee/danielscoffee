@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <img align="left" height="500px" src="octocat-1697507949826.png">
+  <img align="left" height="400px" src="octocat-1697507949826.png">
 
   #
   <h3>👋 Hi there! I'm Daniel Reis</h3>
