@@ -3,7 +3,7 @@
 </div>
   <h3>👋 Hi there! I'm Daniel</h3>
   <p>🇧🇷 Brazilian!</p>
-  <p>💻 I'm Backend Developer</p>
-  <p>👤 Gopher!</p>
-  <a href="https://www.danielscoffee.ninja/">My website</a>
+  ->  Backend Developer <br></br>
+  ->  Focused on: Typescript and Golang <br></br>
+  <a href="https://www.danielscoffee.ninja/">My website(Actually I neeed to reformulate it)</a>
 </div>
