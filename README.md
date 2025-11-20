@@ -1,7 +1,7 @@
 <div>
   <img src="Digital_rain_banner.gif">
 </div>
+<div>
   <h3>👋 Hi there! I'm Daniel</h3>
-  ->  Backend Developer <br></br>
-  ->  Typescript and Golang <br></br>
+  ->  Developer <br></br>
   </div>
